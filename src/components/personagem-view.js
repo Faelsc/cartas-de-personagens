@@ -110,5 +110,4 @@ export class PersonagemView {
             this.render()
         })
     }*/
-
 }
